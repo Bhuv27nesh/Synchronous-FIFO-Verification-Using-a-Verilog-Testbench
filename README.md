@@ -14,7 +14,7 @@ Generated directed test cases covering:
 -Checked flag assertions (fifo_full, fifo_empty)  
 
 ## Results
-Successfully executed 200+ test cases  
+Successfully executed 200 test cases  
 All test cases passed using Icarus tool  
 Verified correct pointer management and memory access behavior  
 Confirmed functional correctness of FIFO under boundary conditions  
